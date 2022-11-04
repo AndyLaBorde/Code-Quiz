@@ -33,7 +33,9 @@ THEN I can save my initials and score
 
 ## Deployed Application
 
-under construction
+![Screenshot of deployed code quiz application](Assets/Images/04-web-apis-homework-demo.gif)
+
+https://andylaborde.github.io/Code-Quiz/
 
 ## Credits
 
