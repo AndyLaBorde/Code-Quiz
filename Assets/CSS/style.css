@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 5%;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkcyan;
+    color:azure;
+    padding: 1%;
+}
+#questionDiv {
+    display: flex;
+    background-color: lightgrey;
+    flex-direction: column;
+    align-content:center;
+    align-items: center;
+    padding: 2%;
+    border-radius: 6px;
+    box-shadow: 10px;
+}
