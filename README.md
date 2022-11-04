@@ -33,7 +33,7 @@ THEN I can save my initials and score
 
 ## Deployed Application
 
-under construction
+https://andylaborde.github.io/Code-Quiz/
 
 ## Credits
 
